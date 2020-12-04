@@ -1,0 +1,9 @@
+{
+  "Manufacturer": "Philips",
+  "ManufacturersModelName": "Achieva",
+  "MagneticFieldStrength": 3,
+  "FlipAngle": 90,
+  "EchoTime": 0.092,
+  "RepetitionTime": 6.96372,
+  "PhaseEncodingDirection": "j"
+}
