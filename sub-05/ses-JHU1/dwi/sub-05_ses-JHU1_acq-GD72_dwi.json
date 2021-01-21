@@ -5,5 +5,6 @@
   "FlipAngle": 90,
   "EchoTime": 0.092,
   "RepetitionTime": 6.96372,
-  "PhaseEncodingDirection": "j"
+  "PhaseEncodingDirection": "j",
+  "TotalReadoutTime": 0.05
 }
