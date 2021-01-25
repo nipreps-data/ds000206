@@ -1,3 +1,10 @@
+2.0.0	2021-01-25
+
+	- Added TotalReadoutTime so functions like eddy_openmp can be run for the diffusion 
+	  data (see https://github.com/nipreps/dmriprep/pull/144#issuecomment-764513887). 
+      0.05 was used as that was the value used in FSL's documentation 
+	  here: https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/eddy/Faq.
+
 2.0.0	2018-04-09
 
 	- Renamed dataset name to same as OpenfMRI
